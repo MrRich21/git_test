@@ -12,3 +12,5 @@ connection = oracledb.connect(user=sample_env.get_main_user(),
  dsn=sample_env.get_connect_string())
 
 sprint('True')
+
+print('test git')
