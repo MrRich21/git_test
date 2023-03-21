@@ -13,4 +13,5 @@ connection = oracledb.connect(user=sample_env.get_main_user(),
 
 sprint('True')
 
-print('test git')
+
+print('test branch git')
